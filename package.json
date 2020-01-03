@@ -1,0 +1,12 @@
+{
+  "name": "dhcp2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:song940/node-dhcp.git",
+    "type": "git"
+  },
+  "author": "Lsong <song940@gmail.com>",
+  "license": "MIT",
+  "description": "dhcp client and server in nodejs"
+}
